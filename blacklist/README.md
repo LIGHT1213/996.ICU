@@ -147,6 +147,7 @@
 |杭州|[有赞](https://www.youzan.com)|2019年1月|996|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|
 |杭州|[智贝科技](https://www.zhipin.com/gongsi/09aefd7a9d507c2f1nd82tu9Ew~~.html)|2019年3月|强制996、歧视程序员|[程序员吐槽：薪资低，996加班无补助，歧视程序员，这hr真乃神人](https://baijiahao.baidu.com/s?id=1627625016599313128)|
 |杭州|[同花顺](http://www.10jqka.com.cn/)|2018年12月|大小周、加班|[看准网](https://www.kanzhun.com/pl6896401.html)|
+|杭州|[杭州隽永物联网技术有限公司](http://www.junyongiot.cn/)|2023年4月|单休|{智联招聘](https://jobs.zhaopin.com/CC394746630J40250177210.htm?refcode=4019&srccode=401901&preactionid=f1cddbc1-5a5b-442f-ad60-7e287c6aac77)|
 |杭州|[杭州海康威视数字技术股份有限公司](https://www.hikvision.com/cn/)|2018年|996|[看准网](https://www.kanzhun.com/pl6448138.html)|[知乎](https://www.zhihu.com/question/31379626/answer/399779602)|[图片](img/hikvision_fj.png)|
 |杭州|[浙江大华技术股份有限公司](https://www.dahuatech.com/)|2018年|加班|[职业圈](http://www.7360.cc/Review-80253)，[看准网](https://www.kanzhun.com/pl6360251.html)|
 |杭州|[浙江宇视科技有限公司](http://fenxiao.uniview.com/)|2018年|大小周加班|[看准网](https://www.kanzhun.com/gsmsh10805642.html)|[知乎](https://www.zhihu.com/question/265531337/answer/296562572)|
